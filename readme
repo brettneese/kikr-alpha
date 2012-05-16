@@ -1,0 +1,22 @@
+@author Brett Neese
+@tittle Kikr
+@description: a Foursquare webapp for tracking social loyalty. 
+@license MIT
+
+Notes:
+
+This is the first thing I've built, I'm releasing 98% of it as open source, but I'm saving our custom CSS files for future use. They shouldn't be hard to rebuild from http://jquerymobile.com. 
+
+It requires Foursquare API credentials, Pusher credentials and Stephen Young's PHP library (https://github.com/stephenyoung/php-foursquare) It's still broken in many places. Have fun. Stride cautiously. Don't hate. Feel free to contact me.
+
+@brneese
+b@brneese.com
+brneese.com
+
+Copyright (c) 2012 Brett Neese
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
